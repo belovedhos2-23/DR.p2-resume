@@ -11,17 +11,24 @@ h1 {
 	color: #FF3333;
 	}
 
+
+
+.header {
+	font-family: 'Playfair Display', 'sans-serif';
+	font-size: 1.7em;
+	text-align: left;
+}
+
 nav img {
 	max-width: 140px;
 	margin: 25px 25px;
 }
 
 
-
-
-
 p {
 	font-family: 'Ubuntu Condensed', 'sans-serif';
+	text-align: left;
+	font-size: 1em;
 }
 
 div {
