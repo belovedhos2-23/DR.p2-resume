@@ -17,11 +17,13 @@ h1 {
 	font-family: 'Playfair Display', 'sans-serif';
 	font-size: 1.7em;
 	text-align: left;
+	margin-bottom: .5px;
 }
 
 nav img {
 	max-width: 140px;
 	margin: 25px 25px;
+	background: teal;
 }
 
 
@@ -29,6 +31,8 @@ p {
 	font-family: 'Ubuntu Condensed', 'sans-serif';
 	text-align: left;
 	font-size: 1em;
+	margin-top: .75px;
+	margin-bottom: 25px;
 }
 
 div {
