@@ -1,13 +1,28 @@
 /* Your Website Styles */
+body {
+	text-align: center;
+}
+
 h1 {
 	font-family: 'Playfair Display', 'sans-serif';
-	text-align: center;
 	text-transform: uppercase; letter-spacing: 20px;
 	font-size: 5em;
 	margin-top: 5px;
 	color: #FF3333;
 	}
 
+nav img {
+	max-width: 140px;
+	margin: 25px 25px;
+}
+
+
+
+
+
+p {
+	font-family: 'Ubuntu Condensed', 'sans-serif';
+}
 
 div {
 	margin-top: -60px;	x 
