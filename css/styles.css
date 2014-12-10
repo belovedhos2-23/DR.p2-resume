@@ -1,7 +1,12 @@
 /* Your Website Styles */
-body {
-	background: #eee;
-}
+h1 {
+	font-family: 'Playfair Display', 'sans-serif';
+	text-align: center;
+	text-transform: uppercase; letter-spacing: 20px;
+	font-size: 5em;
+	margin-top: 5px;
+	color: #FF3333;
+	}
 
 
 div {
@@ -10,6 +15,6 @@ div {
 
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+body {
+	background: url("../img/texture3.jpg") repeat;
 }
