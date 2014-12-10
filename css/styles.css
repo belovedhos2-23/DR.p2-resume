@@ -52,3 +52,13 @@ div {
 body {
 	background: url("../img/texture3.jpg") repeat;
 }
+
+section {
+height: px;
+overflow: hidden;
+}
+
+section:target {
+	height: 100%;
+	transition: background 1s;
+}
