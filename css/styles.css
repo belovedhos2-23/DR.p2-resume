@@ -20,6 +20,14 @@ h1 {
 	margin-bottom: .5px;
 }
 
+nav {
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+}
+
 nav img {
 	max-width: 140px;
 	margin: 25px 25px;
